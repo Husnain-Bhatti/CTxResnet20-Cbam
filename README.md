@@ -32,12 +32,12 @@ The Train and Test data is separated in zip file. It can be downloaded from [dro
 - itertools
 
 ## Project structure
-\figures - folder for images in README.md
-\logs - Tensorboard logs
-\models - folder containing resnet, inception and attention modules
-\weights - folder containing trained weights on dataset
-CTxResnet20-Cbam.ipynb - Resnet20-Cbam training and visualization file
-generator.py - File for createing augmented data from dataset
+\figures - folder for images in README.md <br>
+\logs - Tensorboard logs <br>
+\models - folder containing resnet, inception and attention modules <br>
+\weights - folder containing trained weights on dataset <br>
+CTxResnet20-Cbam.ipynb - Resnet20-Cbam training and visualization file <br>
+generator.py - File for createing augmented data from dataset <br>
 README.md - description of this project
 
 ## Resnet20-Cbam Model
