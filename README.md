@@ -570,9 +570,8 @@ Confusion metrics of resnetv2 and inception v3 can be seen below
 ![Confusion Matrix](figures/inceptionv3_cfm.png)
 
 ### Grad-CAM
-![gcam1](figures/gcam1.png)
-![gcam2](figures/gcam2.png)
-![gcam3](figures/gcam3.png)
+
+![gcam](figures/gcam.png)
 
 ### References
 - Paper: [CBAM: Convolutional Block Attention Module](https://arxiv.org/pdf/1807.06521)
