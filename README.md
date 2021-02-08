@@ -562,7 +562,7 @@ Predictions on some test images can be seen below <br>
 
 
 ### Confusion Matrix
-![Confusion Matrix](figures/resnetv1_cfm.png)
+![Confusion Matrix](figures/resnetv1_cfm1.png)
 
 Confusion metrics of resnetv2 and inception v3 can be seen below
 
