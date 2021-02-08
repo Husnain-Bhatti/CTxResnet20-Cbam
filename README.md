@@ -557,7 +557,7 @@ Accuracy of 98% is achieved on CT X-Ray dataset.
 ![Accuracy curves](figures/resnetv1_acc.png)
 ![Loss curves](figures/resnetv1_loss.png)
 ### Predictions 
-Predictions on some test images can be seen below
+Predictions on some test images can be seen below <br>
 ![Predictions](figures/predictions.png)
 
 
