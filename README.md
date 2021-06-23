@@ -552,7 +552,7 @@ model.load_weights('/content/drive/MyDrive/resnetv1_cbam_rev1.h5')
     - optimizer = SGD
     - batch size = 32
 
-Accuracy of 98% is achieved on CT X-Ray dataset.
+Accuracy of 98% is achieved on X-Ray dataset.
 
 ![Accuracy curves](figures/resnetv1_acc.png)
 ![Loss curves](figures/resnetv1_loss.png)
